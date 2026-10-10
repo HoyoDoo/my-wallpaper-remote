@@ -30,3 +30,5 @@ https://minia.hoyodoo.uk/BlueArchive.jpg
 https://minia.hoyodoo.uk/BlueArchiveBg.jpg
 https://minia.hoyodoo.uk/MLP.jpg
 https://minia.hoyodoo.uk/MLPBg.jpg
+https://minia.hoyodoo.uk/BetaTok.jpg
+https://minia.hoyodoo.uk/BetaTokBg.jpg
