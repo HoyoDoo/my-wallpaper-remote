@@ -24,3 +24,5 @@ https://minia.hoyodoo.uk/MarvelRivals.jpg
 https://minia.hoyodoo.uk/MarvelRivalsBg.jpg
 https://minia.hoyodoo.uk/Overwatch.jpg
 https://minia.hoyodoo.uk/OverwatchBg.jpg
+https://minia.hoyodoo.uk/Furry.jpg
+https://minia.hoyodoo.uk/FurryBg.jpg
