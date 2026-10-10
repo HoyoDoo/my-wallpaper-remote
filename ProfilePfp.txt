@@ -20,3 +20,5 @@ https://minia.hoyodoo.uk/ZZZ.jpg
 https://minia.hoyodoo.uk/ZZZBg.jpg
 https://minia.hoyodoo.uk/HSR.jpg
 https://minia.hoyodoo.uk/HSRBg.jpg
+https://minia.hoyodoo.uk/MarvelRivals.jpg
+https://minia.hoyodoo.uk/MarvelRivalsBg.jpg
