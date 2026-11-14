@@ -1366,6 +1366,9 @@ https://media.hoyodoo.uk/SaphirA7.mp4|@Saphir||https://media.hoyodoo.uk/avatars/
 https://media.hoyodoo.uk/SaphirA8.mp4|@Saphir||https://media.hoyodoo.uk/avatars/Saphir.png
 https://media.hoyodoo.uk/SaphirA9.mp4|@Saphir||https://media.hoyodoo.uk/avatars/Saphir.png
 https://media.hoyodoo.uk/SaphirA10.mp4|@Saphir||https://media.hoyodoo.uk/avatars/Saphir.png
+https://media.hoyodoo.uk/PuppyPetA2.mp4|@PuppyPet|x.com/AttentionNeedy|https://media.hoyodoo.uk/avatars/PuppyPet.png
+https://media.hoyodoo.uk/PuppyPetA3.mp4|@PuppyPet|x.com/AttentionNeedy|https://media.hoyodoo.uk/avatars/PuppyPet.png
+https://media.hoyodoo.uk/PuppyPetA4.mp4|@PuppyPet|x.com/AttentionNeedy|https://media.hoyodoo.uk/avatars/PuppyPet.png
 
 
 
