@@ -1423,6 +1423,13 @@ https://media.hoyodoo.uk/wishcommonA2.mp4|@wishcommon01|x.com/wishcommon01|https
 https://media.hoyodoo.uk/wishcommonA3.mp4|@wishcommon01|x.com/wishcommon01|https://media.hoyodoo.uk/avatars/wishcommon01.png
 https://media.hoyodoo.uk/wishcommonA4.mp4|@wishcommon01|x.com/wishcommon01|https://media.hoyodoo.uk/avatars/wishcommon01.png
 https://media.hoyodoo.uk/wishcommonA5.mp4|@wishcommon01|x.com/wishcommon01|https://media.hoyodoo.uk/avatars/wishcommon01.png
+https://media.hoyodoo.uk/PuppyPetA5.mp4|@PuppyPet|x.com/AttentionNeedy|https://media.hoyodoo.uk/avatars/PuppyPet.png
+https://media.hoyodoo.uk/PuppyPetA6.mp4|@PuppyPet|x.com/AttentionNeedy|https://media.hoyodoo.uk/avatars/PuppyPet.png
+https://media.hoyodoo.uk/PuppyPetA7.mp4|@PuppyPet|x.com/AttentionNeedy|https://media.hoyodoo.uk/avatars/PuppyPet.png
+https://media.hoyodoo.uk/PuppyPetA8.mp4|@PuppyPet|x.com/AttentionNeedy|https://media.hoyodoo.uk/avatars/PuppyPet.png
+https://media.hoyodoo.uk/PuppyPetA9.mp4|@PuppyPet|x.com/AttentionNeedy|https://media.hoyodoo.uk/avatars/PuppyPet.png
+https://media.hoyodoo.uk/PuppyPetA10.mp4|@PuppyPet|x.com/AttentionNeedy|https://media.hoyodoo.uk/avatars/PuppyPet.png
+https://media.hoyodoo.uk/PuppyPetA11.mp4|@PuppyPet|x.com/AttentionNeedy|https://media.hoyodoo.uk/avatars/PuppyPet.png
 
 
 
