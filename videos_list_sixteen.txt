@@ -1535,6 +1535,8 @@ https://media.hoyodoo.uk/GilbertE3.mp4|@Gilbert|x.com/gilbert_087|https://media.
 https://media.hoyodoo.uk/GilbertE4.mp4|@Gilbert|x.com/gilbert_087|https://media.hoyodoo.uk/avatars/Gilbert.png
 https://media.hoyodoo.uk/GilbertE5.mp4|@Gilbert|x.com/gilbert_087|https://media.hoyodoo.uk/avatars/Gilbert.png
 https://media.hoyodoo.uk/GrandpaB1.mp4|@Grandpa||https://media.hoyodoo.uk/avatars/Grandpa.png
+https://media.hoyodoo.uk/GrandpaB2.mp4|@Grandpa||https://media.hoyodoo.uk/avatars/Grandpa.png
+https://media.hoyodoo.uk/GrandpaB3.mp4|@Grandpa||https://media.hoyodoo.uk/avatars/Grandpa.png
 
 
 
