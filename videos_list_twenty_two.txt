@@ -62,3 +62,6 @@ https://media.hoyodoo.uk/NTRA61.mp4
 https://media.hoyodoo.uk/NTRA62.mp4
 https://media.hoyodoo.uk/NTRA63.mp4
 https://media.hoyodoo.uk/NTRA64.mp4
+https://media.hoyodoo.uk/RyzeA1.mp4|@Ryze||https://media.hoyodoo.uk/avatars/Ryze.png
+https://media.hoyodoo.uk/RyzeA2.mp4|@Ryze||https://media.hoyodoo.uk/avatars/Ryze.png
+https://media.hoyodoo.uk/RyzeA3.mp4|@Ryze||https://media.hoyodoo.uk/avatars/Ryze.png
